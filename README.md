@@ -1,1 +1,1 @@
-[secret]{https://kmishael.github.io/secret/}
+[secret](https://kmishael.github.io/secret/)
